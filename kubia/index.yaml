@@ -3,22 +3,22 @@ entries:
   kubia:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-07-12T19:10:34.509565+08:00"
+    created: "2022-07-12T19:18:25.323028+08:00"
     description: A Helm chart for Kubernetes
     digest: 518b26ee79d955ac2d90e5e447d83f89c05e9445e613adf9d4028191b0ad3ac3
     name: kubia
     type: application
     urls:
-    - kubia-0.2.0.tgz
+    - https://raw.githubusercontent.com/kuiche1982/helm-example/main/kubia/charts/kubia-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-07-12T19:10:34.509254+08:00"
+    created: "2022-07-12T19:18:25.322735+08:00"
     description: A Helm chart for Kubernetes
     digest: 588cf37452b9a768e390bc80c99ee932deed7ee9389c9e54ed0ee171974a8674
     name: kubia
     type: application
     urls:
-    - kubia-0.1.0.tgz
+    - https://raw.githubusercontent.com/kuiche1982/helm-example/main/kubia/charts/kubia-0.1.0.tgz
     version: 0.1.0
-generated: "2022-07-12T19:10:34.508498+08:00"
+generated: "2022-07-12T19:18:25.322348+08:00"
